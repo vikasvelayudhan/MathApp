@@ -1,4 +1,4 @@
-const CACHE = 'mathquest-v2';
+const CACHE = 'mathquest-v3';
 const ASSETS = ['./', './index.html', './manifest.json'];
 
 self.addEventListener('install', e => {
