@@ -2,7 +2,7 @@
   "name": "Mathe Quest",
   "short_name": "Mathe Quest",
   "description": "Die lustige Mathe-App für Kinder von 8–10 Jahren!",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#1a0533",

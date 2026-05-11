@@ -2,7 +2,7 @@
   "name": "Math Quest",
   "short_name": "Math Quest",
   "description": "The fun maths app for kids aged 8–10!",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0d0d1a",
